@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9171f2b-0db8-451b-9ad0-1a48293de325" name="Changes" comment="pytorch分类" />
+    <list default="true" id="e9171f2b-0db8-451b-9ad0-1a48293de325" name="Changes" comment="pytorch分类改进">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/改进版二分类问题-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/改进版二分类问题-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/改进版二分类问题.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/改进版二分类问题.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,6 +117,9 @@
       <workItem from="1776089005684" duration="60000" />
       <workItem from="1776178412866" duration="105000" />
       <workItem from="1776260686139" duration="121000" />
+      <workItem from="1776353109857" duration="207000" />
+      <workItem from="1776353429419" duration="582000" />
+      <workItem from="1776437099736" duration="590000" />
     </task>
     <task id="LOCAL-00001" summary="pytorch">
       <option name="closed" value="true" />
@@ -146,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776260747087</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pytorch分类改进">
+      <option name="closed" value="true" />
+      <created>1776353306718</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776353306718</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +182,8 @@
     <MESSAGE value="pytorch" />
     <MESSAGE value="pytorch线性回归" />
     <MESSAGE value="pytorch分类" />
-    <option name="LAST_COMMIT_MESSAGE" value="pytorch分类" />
+    <MESSAGE value="pytorch分类改进" />
+    <option name="LAST_COMMIT_MESSAGE" value="pytorch分类改进" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pytorch_basic$test.coverage" NAME="test Coverage Results" MODIFIED="1776005057717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

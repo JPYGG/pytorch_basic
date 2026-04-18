@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9171f2b-0db8-451b-9ad0-1a48293de325" name="Changes" comment="pytorch分类改进">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/改进版二分类问题-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/改进版二分类问题-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/改进版二分类问题.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/改进版二分类问题.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="e9171f2b-0db8-451b-9ad0-1a48293de325" name="Changes" comment="pytorch分类改进" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +115,7 @@
       <workItem from="1776260686139" duration="121000" />
       <workItem from="1776353109857" duration="207000" />
       <workItem from="1776353429419" duration="582000" />
-      <workItem from="1776437099736" duration="590000" />
+      <workItem from="1776437099736" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="pytorch">
       <option name="closed" value="true" />
@@ -161,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776353306718</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pytorch分类改进">
+      <option name="closed" value="true" />
+      <created>1776439038924</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776439038924</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

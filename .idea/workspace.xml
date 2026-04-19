@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9171f2b-0db8-451b-9ad0-1a48293de325" name="Changes" comment="pytorch分类改进" />
+    <list default="true" id="e9171f2b-0db8-451b-9ad0-1a48293de325" name="Changes" comment="bug">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +118,8 @@
       <workItem from="1776353109857" duration="207000" />
       <workItem from="1776353429419" duration="582000" />
       <workItem from="1776437099736" duration="627000" />
+      <workItem from="1776528292447" duration="243000" />
+      <workItem from="1776606786983" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="pytorch">
       <option name="closed" value="true" />
@@ -165,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776439038924</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="bug">
+      <option name="closed" value="true" />
+      <created>1776528430960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776528430960</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +199,8 @@
     <MESSAGE value="pytorch线性回归" />
     <MESSAGE value="pytorch分类" />
     <MESSAGE value="pytorch分类改进" />
-    <option name="LAST_COMMIT_MESSAGE" value="pytorch分类改进" />
+    <MESSAGE value="bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pytorch_basic$test.coverage" NAME="test Coverage Results" MODIFIED="1776005057717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

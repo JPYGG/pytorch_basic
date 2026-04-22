@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9171f2b-0db8-451b-9ad0-1a48293de325" name="Changes" comment="pytorch模型保存 自定义数据集">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +122,11 @@
       <workItem from="1776606786983" duration="48000" />
       <workItem from="1776607133164" duration="423000" />
       <workItem from="1776694678670" duration="2851000" />
+      <workItem from="1776698478678" duration="222000" />
+      <workItem from="1776775897997" duration="295000" />
+      <workItem from="1776776348942" duration="302000" />
+      <workItem from="1776779618390" duration="268000" />
+      <workItem from="1776861734422" duration="177000" />
     </task>
     <task id="LOCAL-00001" summary="pytorch">
       <option name="closed" value="true" />
@@ -203,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776698106137</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="pytorch模型保存 自定义数据集">
+      <option name="closed" value="true" />
+      <created>1776698662666</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1776698662666</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
